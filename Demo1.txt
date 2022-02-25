@@ -5,6 +5,10 @@ abdcdss
 aadfr
 efrgg
 
+hello world
+first program
+working 
+directory
 doing .
 Net c# 
 training 
