@@ -1,7 +1,10 @@
 Hello 
 I'm a Trainee 
 At Capgemini
-
+hello world
+first program
+working 
+directory
 doing .
 Net c# 
 training 
